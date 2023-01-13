@@ -1,1 +1,4 @@
-# Donuts_cources_html_project
+# Landing page for cooking courses
+## Team project
+### Used technology:
+HTML, CSS(SASS), Js
